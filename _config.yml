@@ -1,0 +1,28 @@
+name: shoppingannuity
+favicon: null
+layout_spectrum: 0.12660798826254904
+typography_spectrum: 0.5199836657848209
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5157219264656305
+  lightness: 0.8335547568276525
+  saturation: 0.45437813899479806
+  rhythmicContrast: 0.04908926715143025
+purpose: []
